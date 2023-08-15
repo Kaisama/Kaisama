@@ -1,4 +1,4 @@
-![banner](https://github.com/Kaisama/Akshat_Bisht/assets/109125241/7be0d7cb-644d-4d32-b17d-a2996f2cc398)
+![banner](https://github.com/Kaisama/Kaisama/assets/109125241/8e721544-b7c3-4550-9047-e6c1b3abceb7)
 <h1 align="center">Hi 👋, I'm Akshat Bisht</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
