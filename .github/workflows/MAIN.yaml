@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
@@ -21,27 +22,22 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: ./  # This should be the root directory of your repository
+        working-directory: ./
 
       - name: Generate the snake
         run: npm run generate-snake  # Replace with the actual command to generate the snake
-        working-directory: ./  # This should be the root directory of your repository
+        working-directory: ./
 
       - name: Show build status
         run: git status
-        working-directory: ./  # This should be the root directory of your repository
+        working-directory: ./
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update contribution graph [skip ci]"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
