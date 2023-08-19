@@ -21,15 +21,15 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: ./path/to/your/repo
+        working-directory: ./  # This should be the root directory of your repository
 
       - name: Generate the snake
-        run: npm run generate-snake # Replace with the actual command to generate the snake
-        working-directory: ./path/to/your/repo
+        run: npm run generate-snake  # Replace with the actual command to generate the snake
+        working-directory: ./  # This should be the root directory of your repository
 
       - name: Show build status
         run: git status
-        working-directory: ./path/to/your/repo
+        working-directory: ./  # This should be the root directory of your repository
 
       - name: Push changes
         uses: ad-m/github-push-action@master
