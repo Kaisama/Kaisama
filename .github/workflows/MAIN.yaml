@@ -24,9 +24,13 @@ jobs:
         run: npm install
         working-directory: ./
 
-      - name: Generate the snake
-        run: npm run generate-snake  # Replace with the actual command to generate the snake
-        working-directory: ./
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: mishmanners
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Show build status
         run: git status
