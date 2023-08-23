@@ -1,24 +1,31 @@
-![banner](https://github.com/Kaisama/Kaisama/assets/109125241/8e721544-b7c3-4550-9047-e6c1b3abceb7)
-<h1 align="center">Hi 👋, I'm Akshat Bisht</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kaisama&label=Profile%20views&color=0e75b6&style=flat" alt="kaisama" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshat+Bisht!;" />
+</h1>
+
+<h3 align="center">A passionate Software Developer from India</h3>
+
+<br/>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaisama&label=Profile%20views&color=0e75b6&style=flat" alt="kaisama" /> </p>
 
-- 🌱 I’m currently learning **MySQl,JAVA,DSA etc**
+ 🌱 I’m currently learning **MySQl,JAVA,DSA etc**
 
-- 📝 I sometimes write articles on [https://medium.com/@bishtakshat64](https://medium.com/@bishtakshat64)
+ 📝 I sometimes write articles on [https://medium.com/@bishtakshat64](https://medium.com/@bishtakshat64)
 
-- 📫 How to reach me **bishtakshat64@gmail.com**
+ 📫 How to reach me **bishtakshat64@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+<h3 align="left">🌎 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshat bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat bisht" height="30" width="40" /></a>
-<a href="https://instagram.com/bishtakshat03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishtakshat03" height="30" width="40" /></a>
-<a href="https://medium.com/akshat bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akshat bisht" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshat_bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_bisht" height="30" width="40" /></a>
-<a href="https://medium.com/@bishtakshat64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishtakshat64" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/bishtakshat64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bishtakshat64" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bishtakshat64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bishtakshat64" height="30" width="40" /></a>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-bisht-4a00b8245/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bishtakshat03/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bishtakshat64/) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/akshat_bisht/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bishtakshat64/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-%23298D46.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bishtakshat64/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
