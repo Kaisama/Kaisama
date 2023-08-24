@@ -1,10 +1,11 @@
+![gitartwork](gitartwork.svg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kaisama&label=Profile%20views&color=0e75b6&style=flat" alt="kaisama" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshat+Bisht!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Aspire+for+your+well+being!;" />
 </h1>
 
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">I'm Akshat Bisht, a passionate Software Developer from India</h3>
 
 <br/>
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
@@ -17,7 +18,7 @@
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-<h3 align="left">🌎 Socials:</h3>
+<h1 align="left">🌎 Socials 🌎 </h1>
 <p align="left">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-bisht-4a00b8245/) 
@@ -27,7 +28,8 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bishtakshat64/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bishtakshat64/)
 </p>
-<h3>⚒️ Languages-Frameworks-Tools ⚒️</h3>
+
+<h1>⚒️ Languages-Frameworks-Tools ⚒️</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MS_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
@@ -36,7 +38,13 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaisama" alt="kaisama" /></a> </p>
+<h1>⚡ Stats ⚡</h1>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaisama&" alt="kaisama" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaisama&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Kaisama" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaisama&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Kaisama" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaisama&theme=dark&hide_border=true" alt="Kaisama" /></p>
+<br>
+
+# 🏆 GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=Kaisama&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=-1)
 
