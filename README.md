@@ -50,6 +50,6 @@
 
 <br>
 
-# <p align='center'> 🐍 My Contributions 🐍</p>
+# <p align='center'> 🐍 My Contributions Eaten By Sanke 🐍</p>
 ![snake gif](https://github.com/Kaisama/Kaisama/blob/output/github-contribution-grid-snake-dark.svg)
 
