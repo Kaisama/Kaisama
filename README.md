@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Aspire+for+your+well+being!;" />
 </h1>
 
-<h3 align="center">I'm Akshat Bisht, a passionate Software Developer from India</h3>
+<h3 align="center">I'm Akshat Bisht 👨‍💻, a passionate Software Developer from India</h3>
 
 <br/>
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
