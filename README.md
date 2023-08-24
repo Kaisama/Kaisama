@@ -13,7 +13,7 @@
 
  📝 I sometimes write articles on [https://medium.com/@bishtakshat64](https://medium.com/@bishtakshat64)
 
- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+ 📫 How to reach me **bishtakshat64@gmail.com**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
