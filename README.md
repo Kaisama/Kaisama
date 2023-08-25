@@ -1,3 +1,4 @@
+![Banner](https://github.com/Kaisama/Kaisama/assets/109125241/13717d35-c9d4-4224-8ee2-18375328faaa)
 ![gitartwork](gitartwork.svg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kaisama&label=Profile%20views&color=0e75b6&style=flat" alt="kaisama" /> </p>
 
